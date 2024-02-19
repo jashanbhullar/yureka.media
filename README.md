@@ -19,11 +19,8 @@ Rooftop Taxi Advertsement for Dubai, Riyadh and Cape Town.
 
 ### TODO
 
-- [ ] Add ruff for backend
-- [ ] Ruff setup for vscode
 - [ ] Docker file for backend
 - [ ] Docker commands for backend mobilityDB
-- [ ] Makefile for backend commands
 
 ## MVP
 
