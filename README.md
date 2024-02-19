@@ -8,6 +8,7 @@ Rooftop Taxi Advertsement for Dubai, Riyadh and Cape Town.
 - postgres + postgis + mobilityDB
 - migrations - alembic
 - package manager - uv
+- formatter & linter - ruff
 
 ### Frontend
 
