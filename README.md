@@ -24,6 +24,8 @@ Rooftop Taxi Advertsement for Dubai, Riyadh and Cape Town.
 
 ## MVP
 
+Google Doc - https://docs.google.com/document/d/1sL73xObticgygWes9SnGYKTQgBZLSLGuGisnaGfD63o/edit
+
 1. Real-Time Location Tracking
 
 - Map View: Display a live map showing the current location of taxis carrying the advertiser's ads.
