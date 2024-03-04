@@ -1,5 +1,5 @@
 # Makefile for managing a FastAPI project
-.PHONY: install freeze compile upgrade merge run
+.PHONY: install freeze compile sync lint lint_fix format upgrade migration merge start clean
 
 # Install dependencies from requirements.txt
 install:
